@@ -1,0 +1,6 @@
+{
+  "proxy": "http://localhost:3000/plants",
+  "dependencies": {
+    "client": "^0.0.1"
+  }
+}
